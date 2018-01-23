@@ -148,7 +148,7 @@ Now that your identity is set up, you can configure the default text editor that
 
 Another useful option you may want to configure is the default diff tool to use to resolve merge conflicts. Say you want to use vimdiff:
 
-	$ git config --global merge.tool tkdiff
+	$ git config --global merge.tool vimdiff
 
 Git accepts kdiff3, tkdiff, meld, xxdiff, emerge, vimdiff, gvimdiff, ecmerge, and opendiff as valid merge tools. You can also set up a custom tool; see Chapter 7 for more information about doing that.
 

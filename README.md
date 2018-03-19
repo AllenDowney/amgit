@@ -2,7 +2,7 @@
 
 # Am Git Book Contents
 
-_Am Git_, by Allen B. Downey, is a modified version of _Pro Git_ by Scott Chabon.
+_Am Git_, by Allen B. Downey, is a modified version of _Pro Git_ by Scott Chacon.
 
 Like the original, it is licensed under
 the Creative Commons Attribution-Non Commercial-Share Alike 3.0 license.

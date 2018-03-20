@@ -408,7 +408,7 @@ are probably right.  Click "Click to create a pull request for this comparison".
 4. Fill in a title for the pull request, something like "Contributing a new
 creepy part."
 5. Fill in a comment explaining why you think I should accept your pull
-request (this part it optional).
+request (this part is optional).
 6. Click "Send pull request".
 
 You will be notified when I accept your pull request, and then you can

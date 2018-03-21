@@ -170,8 +170,7 @@ they are said to be in the "staging area."
 Here's how the staging area is typically used:
 
 1.     Use `git add` to stage files.
-2.     Use `git status` to confirm that the staging area contains
-the files you want to commit.
+2.     Use `git status` to confirm that the staging area contains the files you want to commit.
 3.     Use `git commit` to copy the staged files into the Object store.
 
 If the staging area contains the files you want to commit, type

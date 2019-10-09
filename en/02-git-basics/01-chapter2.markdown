@@ -139,7 +139,7 @@ your local copy of the repo, and type:
 where `<URL>` is the URL you copied from the project page.  It should
 look like this
 
-     $ git clone <yourusername>/blair-walden-project
+     $ git clone https://github.com/<yourusername>/blair-walden-project
 
 If you made your fork private, you will be prompted for your GitHub
 username and password.  If it's public, you can clone it
